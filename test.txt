@@ -1,0 +1,30 @@
+count 4
+id 1
+parent 0
+ts_ns 1755702117283338000
+hash 7412589522685246992
+message "FirstCommit"
+content "Lak aloo"
+----
+id 2
+parent 1
+ts_ns 1755702186776395300
+hash 4561510026436568234
+message "SecondCommit"
+content "Lak aloobassel"
+----
+id 3
+parent 2
+ts_ns 1755702499421153400
+hash 13798053226799961845
+message "dib"
+content "Lak aloobassel   dib"
+----
+id 4
+parent 2
+ts_ns 1755702538965422200
+hash 482496665599792432
+message "\"usj\" "
+content "Lak aloobasselusj"
+----
+head 4
